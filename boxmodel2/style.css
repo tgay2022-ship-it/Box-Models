@@ -1,0 +1,44 @@
+.square1{
+    width: 500px;
+    height: 500px;
+    background-color: #e4e4e4;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.square2{
+    width: 400px;
+    height: 400px;
+    background-color: #ffd146;
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+}
+
+.square3{
+    width: 330px;
+    height: 330px;
+    background-color: #eac25d;
+    position: relative;
+    bottom: 750px;
+    left: 135px;
+}
+
+.square4{
+    width: 250px;
+    height: 250px;
+    background-color: #ee9c10;
+    position: relative;
+    bottom: 1020px;
+    left: 175px;
+}
+
+.square5{
+    width: 170px;
+    height: 170px;
+    background-color: #ee7b10;
+    position: relative;
+    bottom: 1210px;
+    left: 215px;
+}
