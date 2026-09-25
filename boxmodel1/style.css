@@ -2,7 +2,7 @@
     width: 500px;
     height: 500px;
     background-color: #daff89;
-    border-width: solid;
+    border-width: solid; /*Invalid, use either border-width: 5px, or border-style: solid; or the shorthand*/
     position: absolute;
 }
 
